@@ -1,0 +1,8 @@
+The challenge provided a file without an extension. Using FTK Imager, I analyzed its contents and identified it as a virtual hard disk. Inside, I found an encrypted flag along with a key. The encrypted flag was:
+
+CTCHHW{7t3_h1hw3p3sq3_s37i33r_a0l_4li_a3}
+
+
+Recognizing it as a Vigenère cipher, I used the key "cryforme" and decrypted it with dcode.fr. The final flag was:
+
+`ACECTF{7h3_d1ff3r3nc3_b37w33n_y0u_4nd_m3}
