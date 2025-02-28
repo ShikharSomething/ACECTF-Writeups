@@ -1,0 +1,1 @@
+use foremost to extract a zip file. use john the ripper to find its password. then do caesar cipher on flag.txt to get the flag
