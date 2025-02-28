@@ -1,0 +1,32 @@
+this part 
+> rg 'acectf\{' -i str
+1626709:Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"
+and  
+c0nc3al3d_
+ with 
+th3_
+was in the powershell
+"HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"
+echo "( th3_ ) i may have used the wrong command" | clip
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"
+echo "( c0nc3al3d_ ) IS THERE A VIRUS DLL FILE ON MY PC??" > $env:TEMP\hiddenflag.txt`
+echo "( th3_ ) i may have used the wrong command" | clip
+echo "( th3_ ) i may have used the wrong command" | clip
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"`
+echo "( th3_ ) i may have used the wrong command" | clip`
+echo "( c0nc3al3d_ ) IS THERE A VIRUS ON MY PC??"
+echo " ( c0nc3al3d_ ) IS THERE A VIRUS ON MY PC??"
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"
+echo "( th3_ ) i may have used the wrong command" | clip
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"
+echo "( c0nc3al3d_ ) IS THERE A VIRUS DLL FILE ON MY PC??" > $env:TEMP\hiddenflag.txt`
+echo "( th3_ ) i may have used the wrong command" | clip
+echo "( th3_ ) i may have used the wrong command" | clip
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "HiddenFlag" -Value "( ACECTF{3xplor1n6_ ) the clipboard is not copying the right things"`
+echo "( th3_ ) i may have used the wrong command" | clip`
+echo "( c0nc3al3d_ ) IS THERE A VIRUS ON MY PC??"
+echo " ( c0nc3al3d_ ) IS THERE A VIRUS ON MY PC??"
+the lastpart is an executable
+
+Final Flag:
+ACECTF{3xplor1n6_th3_c0nc3al3d_r1ddl3s}
