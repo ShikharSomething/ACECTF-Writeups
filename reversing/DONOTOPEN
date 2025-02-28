@@ -1,0 +1,9 @@
+Use the original DONTOPEN, i.e. do not modify DONTOPEN.
+
+tail -n +31 DONTOPEN > a.gz
+gzip -d a.gz
+cp a embedded.py
+
+
+comment all requests statements.
+change pin ==  expr near the file bottom to pin =  assignment.
