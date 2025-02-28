@@ -1,0 +1,9 @@
+The Mysterious Building - Write-Up
+The challenge provided an image as a clue. Using Google Lens, I identified a pillar in the image. From there, I used Google Street View to explore the surrounding area and found the full building. The name of the building was PP Trade Center.
+
+Google Maps Links:
+Street View of the Pillar
+PP Trade Center Location
+
+Final Flag:
+ACECTF{pp_trade_center}
