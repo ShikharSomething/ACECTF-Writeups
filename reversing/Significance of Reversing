@@ -1,0 +1,21 @@
+```def reverse_file(input_file, output_file):
+    with open(input_file, "rb") as f:
+        data = f.read()
+
+    reversed_data = data[::-1]  # Reverse the byte order
+
+    with open(output_file, "wb") as f:
+        f.write(reversed_data)
+
+    print(f"Reversed file saved as {output_file}")
+
+
+# Example usage
+input_file = "something.png"  # Change this to your input file name
+output_file = "output.bin"  # Change this to your desired output file name
+reverse_file(input_file, output_file)```
+
+use this script on the png file
+and decompile the elf in binary ninja
+get the three strings, decode rot 47
+and get the flag
